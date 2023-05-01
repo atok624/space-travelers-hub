@@ -87,7 +87,7 @@ In order to run this project you need:
 > Clone this repository to your desired folder:
 
 ```sh
-git clone https://github.com/BB-Simon/space-travelers-hub
+git clone https://github.com/atok624/space-travelers-hub
 ```
 
 > In the project directory, you can run:
